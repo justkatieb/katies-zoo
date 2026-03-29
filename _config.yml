@@ -1,1 +1,14 @@
-
+objectid,filename,youtubeid,vimeoid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+coll001,ash2.jpg,,,Ash,Katie Bowman,2024,"Photo of a tabby cat, named Ash, on a purple blanket. A hand seems to be petting or holding the cat.",Cats,"Archdale, NC",,,,,,,,,
+coll002,bandit1.heic,,,Bandit,Katie Bowman,2026,"Photo of a medium-haired, tuxedo cat, named Bandit, on a porch railing. There is a sunset happening behind him.",Cats,"Archdale, NC",,,,,,,,,
+coll003,changa1.jpg,,,Changa,Katie Bowman,2025,"Photo of a small, brown bunny, named Changa, grazing grass as she spends time in an outdoor enclosure. She has a yellow dandelion on her head.",Rabbits,"Archdale, NC",,,,,,,,,
+coll004,changaandember.jpg,,,Changa and Ember,Katie Bowman,2026,"Changa, a small brown bunny, sniffs Ember, a tuxedo cat, on a living room bench.",Cats; rabbits,"Archdale, NC",,,,,,,,,
+coll005,chimi.jpg,,,"Chimi, in Memoriam",Katie Bowman,2025,"Chimi, a small white bunny, is enjoying time outside in an outdoor enclosure. She has a dandelion on her head and a harness with wings on her back. The photo is included in memoriam as Chimi passed in August of 2025.",Rabbits,"Archdale, NC",,,,,,,,,
+coll006,ember1.heic,,,Ember,Katie Bowman,2025,"Ember, a tuxedo cat, is on a porch railing with greenery in the background. Her long whiskers are on display.",Cats,"Archdale, NC",,,,,,,,,
+coll007,remiandember.heif,,,Remi and Ember,Katie Bowman,2026,"Ember, the tuxedo cat on the left, and Remi, the golden retriever on the right, sniff noses in greeting. ",Cats; dogs,"Archdale, NC",,,,,,,,,
+coll008,remisnow.jpg,,,Remi,Katie Bowman,2026,Golden retriever Remi enjoys a snowstorm in January 2026.,Dogs,"Archdale, NC",,,,,,,,,
+coll009,smokey1.jpg,,,Smokey,Katie Bowman,2025,"Smokey, a black cat, looks down in judgment from her place on a cat tree. ",Cats,"Archdale, NC",,,,,,,,,
+coll010,wallcats1.jpg,,,"Ember, Smokey, and Ash",Katie Bowman,2026,"From right to left, Ember, Smokey, and Ash all enjoy time on the cat wall - a wall covered in cat furniture.",Cats,"Archdale, NC",,,,,,,,,
+coll011,wallcats2.jpg,,,"Smokey, Ash, and Bandit",Katie Bowman,2026,"From top to bottom, Smokey, Ash, and Bandit all enjoy time on the cat wall - a wall covered in cat furniture.",Cats,"Archdale, NC",,,,,,,,,
+coll012,,,,,,,,,,,,,,,,,,
+coll013,,,,,,,,,,,,,,,,,,
